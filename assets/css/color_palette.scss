@@ -1,0 +1,25 @@
+// COLORS
+// define the color palette
+
+$teal: #63BDA2;
+$teal-darker: #359377;
+$gray-background: #F7F7F7;
+$gray-table-border: #EEEEEE;
+$gray-lightest: #D2D2D2;
+$gray-light: #ABABAB;
+$gray-medium: #898989;
+$gray-dark: #5F5F5F;
+$highlight: #FFEC5C;
+
+// map colors to generic shades
+// -- two ranges of shades (plus highlight)
+
+$secondary: $teal;
+$secondary-darker: $teal-darker;
+$primary-background: $gray-background;
+$primary-table-border: $gray-table-border;
+$primary-lightest: $gray-lightest;
+$primary-light: $gray-light;
+$primary-medium: $gray-medium;
+$primary-dark: $gray-dark;
+

@@ -1,0 +1,62 @@
+@import "color_palette";
+
+// GLOBAL
+$color-body: $primary-dark;
+
+//TEXT
+$color-article-p-a: $primary-dark;
+$color-h2-a-hovor-shadow: $primary-dark;
+
+// LINKS AND TAGS
+$color-a: $primary-dark;
+$color-a-visited: $color-a;
+$color-link: $secondary;
+$color-link-visited: $color-link;
+$color-link-hover: $secondary-darker;
+$color-link-hover-arrow: $color-link-hover;
+$color-tag: $primary-light;
+$color-tag-visited: $color-tag;
+$color-tag-hovor: $primary-medium;
+
+// ARTICLE FORMATTING
+$color-time: $primary-light;
+$color-hr: $primary-lightest;
+$color-mark: $highlight;
+$color-blockquote-border-left: $primary-lightest;
+$color-pre-background: $primary-background;
+$color-p-code-kbd: $primary-background;
+$color-table-thread-background: $primary-background;
+$color-table-border: $primary-table-border;
+
+// TOP NAV
+
+// CONTENT
+$color-description: $primary-medium;
+$color-paginator-a: $secondary;
+
+// ARTICLE CONTENT
+
+// SHORTCODE CONTENT
+$color-tweet-border-left: $secondary;
+$color-tweet: $primary-dark;
+$color-tweet-a: $color-tweet;
+$color-instagram-card-border: $primary-light;
+
+// ARTICLE FOOTER
+$color-post-footer: $primary-light;
+$color-post-footer-border: $primary-lightest;
+$color-page-footer: $primary-light;
+$color-page-footer-a: $color-page-footer;
+$color-footer-divider: $primary-lightest;
+
+// ARCHIVES PAGE
+$color-archives-list-item-date: $primary-light;
+
+// 404 PAGE
+
+// MAIN FOOTER
+$color-footer-mobile-divider-bar: $primary-light;
+$color-footer-social-hover-fill: $primary-medium;
+$color-footer-a: $primary-light;
+$color-footer-a-visited: $color-footer-a;
+$color-footer-a-hovor: $primary-medium;
